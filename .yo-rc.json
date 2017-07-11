@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "libraryName": "onboardingapp",
+    "framework": "react",
+    "version": "1.0.2",
+    "libraryId": "7c58490c-acbd-4c0b-b690-d040a2934dd5"
+  }
+}

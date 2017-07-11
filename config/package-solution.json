@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "onboardingapp-client-side-solution",
+    "id": "7c58490c-acbd-4c0b-b690-d040a2934dd5",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/onboardingapp.sppkg"
+  }
+}
